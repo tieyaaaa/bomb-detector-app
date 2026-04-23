@@ -1,0 +1,26 @@
+.game-detector {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.game-detector h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.game-detector button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.game-detector button:hover {
+    background-color: #2980b9;
+}
